@@ -6,11 +6,11 @@ navbar:
     - text: "Overview"
       href: index.html
     - text: "Importing data"
-      href: p2.html
+      href: index.html
     - text: "Working with dataframes"
-      href: p3.html
+      href: index.html
     - text: "Data manipulation with dplyr"
-      href: p4.html
+      href: index.html
 output:
   html_document:
     theme: paper
