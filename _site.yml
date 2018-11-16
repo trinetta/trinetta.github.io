@@ -4,7 +4,7 @@ navbar:
   title: "Introduction to R"
   left:
     - text: "Overview"
-      href: p1.html
+      href: index.html
     - text: "Importing data"
       href: p2.html
     - text: "Working with dataframes"
