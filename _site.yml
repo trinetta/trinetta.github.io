@@ -1,0 +1,18 @@
+name: "trinetta"
+output_dir: "."
+navbar:
+  title: "Introduction to R"
+  left:
+    - text: "Overview"
+      href: p1.html
+    - text: "Importing data"
+      href: p2.html
+    - text: "Working with dataframes"
+      href: p3.html
+    - text: "Data manipulation with dplyr"
+      href: p4.html
+output:
+  html_document:
+    theme: paper
+    highlight: zenburn
+    css: 'styles.css'
